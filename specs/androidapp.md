@@ -9,6 +9,28 @@ The 3bot android app will be developed by Jimber to support control and onboardi
 ## Functionality
 Besides a webview to open 3bot web interface, the app will provide functionality to login through TOTP either on PC or web comparable to banking apps.
 
+### Apps
+
+Users have an overview of the purchased apps. They can buy new apps by clicking the + sign.
+When purchasing a new app, android will install a new app on the device. A shortcut will be created on the homescreen.
+The purchased app is also added in apps in the 3bot.
+
+Available apps: 
+ * Web shell
+ * Browser in browser
+ * WebRtc server ( co-work)
+ * Easy to create chat bots (co-work??)
+ 
+### Wallets
+ * Add / upload wallet
+ * Overiew wallets
+ * Orders
+ * Order history
+ 
+### Profile
+* Mechanism to change personal id info
+* Change info
+
 ## User stories
 
 ### As an Android user, start Jimber Security App
